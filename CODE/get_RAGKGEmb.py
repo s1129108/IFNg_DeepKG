@@ -10,9 +10,9 @@ import logging
 import os
 
 # Neo4j connection details
-URI = "neo4j+s://c8be9c06.databases.neo4j.io"
+URI = "your URL"
 USERNAME = "neo4j"
-PASSWORD = "B3V9DcKgVZ0ThrMrrsO0CfsLokWTmOBGnFM_tiIBeRw"
+PASSWORD = "Your password"
 
 # Setup logging
 logging.basicConfig(filename='./revision_logs/human.log', level=logging.INFO, 
